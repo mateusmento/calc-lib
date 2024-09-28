@@ -1,6 +1,6 @@
 {
   "name": "@mateussarmento/use123",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "main": "index.js",
   "keywords": [],
   "author": "",
@@ -10,7 +10,7 @@
     "start": "node index.mjs"
   },
   "dependencies": {
-    "@mateussarmento/calc123": "^0.0.4"
+    "@mateussarmento/calc123": "^0.0.5"
   },
   "gitHead": "613729bb4ecc6d1b2fcc17c6bf064c06be1080a4"
 }
