@@ -10,5 +10,8 @@
   "peerDependencies": {
     "lodash": "^4.17.21"
   },
-  "gitHead": "b6e28193cf5d63da6ef29041b41e6497a80bd694"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "3c3985cf324f695040b67d30434bf0f96c4044ad"
 }
