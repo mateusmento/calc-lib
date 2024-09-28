@@ -1,6 +1,6 @@
 {
   "name": "@mateussarmento/use123",
-  "private": false,
+  "private": true,
   "version": "0.0.8",
   "main": "index.js",
   "keywords": [],
@@ -12,9 +12,6 @@
   },
   "dependencies": {
     "@mateussarmento/calc123": "^0.0.8"
-  },
-  "publishConfig": {
-    "access": "public"
   },
   "gitHead": "b15427e073e6ca9d0c1de6f00f6aae43e83076f6"
 }

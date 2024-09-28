@@ -3,11 +3,11 @@
   "private": false,
   "version": "0.0.8",
   "main": "index.mjs",
-  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
+  "scripts": {},
   "peerDependencies": {
     "lodash": "^4.17.21"
   },
