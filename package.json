@@ -1,5 +1,6 @@
 {
   "name": "root",
+  "private": false,
   "workspaces": ["*"],
   "dependencies": {},
   "devDependencies": {
