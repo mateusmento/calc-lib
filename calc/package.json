@@ -1,5 +1,5 @@
 {
-  "name": "calc",
+  "name": "@mateussarmento/calc123",
   "version": "0.0.2",
   "main": "index.mjs",
   "scripts": {},
@@ -9,5 +9,6 @@
   "description": "",
   "peerDependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "82744e699473fe3c5aa5d2801d385589cabc868e"
 }
