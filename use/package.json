@@ -1,7 +1,7 @@
 {
   "name": "@mateussarmento/use123",
   "private": false,
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "index.js",
   "keywords": [],
   "author": "",
@@ -11,7 +11,7 @@
     "start": "node index.mjs"
   },
   "dependencies": {
-    "@mateussarmento/calc123": "^0.0.7"
+    "@mateussarmento/calc123": "^0.0.8"
   },
   "publishConfig": {
     "access": "public"
