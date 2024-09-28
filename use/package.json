@@ -1,5 +1,6 @@
 {
   "name": "@mateussarmento/use1234",
+  "private": true,
   "version": "0.1.0",
   "main": "index.js",
   "keywords": [],
@@ -12,5 +13,5 @@
   "dependencies": {
     "@mateussarmento/calc123": "^0.0.8"
   },
-  "gitHead": "b15427e073e6ca9d0c1de6f00f6aae43e83076f6"
+  "gitHead": "b6e28193cf5d63da6ef29041b41e6497a80bd694"
 }
